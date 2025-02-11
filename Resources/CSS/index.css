@@ -43,6 +43,33 @@ html, body {
 }
 
 
+.easy h3 span {
+  color: #333;  
+  background-color:#CCFFCC;
+  display: inline;
+}
+
+
+
+.medium h3 span {
+  color: #333;
+  background-color:#FFFF99;
+  display: inline;
+}
+
+
+
+.hard h3 span {
+  color: #333;
+  background-color:#FF0000;
+  display: inline;
+}
+
+
+
+
+
+
 /*[Change to position to "fixed" activate fixed*/
 header {
   background-color: #333333;
@@ -114,6 +141,7 @@ main h1 {
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 
 /* change position to "fixed" to activate fixed feature */
